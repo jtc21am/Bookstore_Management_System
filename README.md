@@ -18,12 +18,12 @@ See all the requested books by the customers
 See all the customers listed with their orders
 
 
-![](ScreenShot1.png)
+![ScreenShot1](ScreenShot1.png)
 
-![](ScreenShot2.png)
+![ScreenShot2](ScreenShot2.png)
 
-![](/ScreenShot3/.png)
+![ScreenShot3](ScreenShot3.png)
 
-![](/ScreenShot4/.png)
+![ScreenShot4](ScreenShot4.png)
 
-![](/ScreenShot5/.png)
+![ScreenShot5](ScreenShot5.png)

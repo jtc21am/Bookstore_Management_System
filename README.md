@@ -18,9 +18,9 @@ See all the requested books by the customers
 See all the customers listed with their orders
 
 
-![](/ScreenShot1/.png)
+![](ScreenShot1.png)
 
-![](/ScreenShot2/.png)
+![](ScreenShot2.png)
 
 ![](/ScreenShot3/.png)
 

@@ -1,10 +1,12 @@
-# Bookstore_Management_System
+# Bookstore Management System
 
 A bookstore management system using Python Django where the customer can purchase books.  Admin module to handle the entire system made in Django to handle back-end databases.
 
 About the Django Bookstore Management System Project
 
 With this project, it will be very easy to manage all the records in a bookstore.  
+
+## Features
 
 The customer can:
 Purchase books from the books list
@@ -16,18 +18,12 @@ See all the requested books by the customers
 See all the customers listed with their orders
 
 
+![](/ScreenShot1/.png)
 
+![](/ScreenShot2/.png)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%201.png?version%3D1668889282202)
+![](/ScreenShot3/.png)
 
+![](/ScreenShot4/.png)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%202.png?version%3D1668889318232)
-
-
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%203.png?version%3D1668889336070)
-
-
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%204.png?version%3D1668889354275)
-
-
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%205.png?version%3D1668889368800)
+![](/ScreenShot5/.png)

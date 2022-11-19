@@ -22,25 +22,8 @@ See all the customers listed with their orders
 
 ![](/ScreenShot2/.png)
 
-<<<<<<< HEAD
 ![](/ScreenShot3/.png)
-=======
-![1](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%201.png?version%3D1668889282202)
->>>>>>> 90db3ec24b7fd9c8122d1dc186869dbd0454023e
 
 ![](/ScreenShot4/.png)
 
-<<<<<<< HEAD
 ![](/ScreenShot5/.png)
-=======
-![2](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%202.png?version%3D1668889318232)
-
-
-![3](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%203.png?version%3D1668889336070)
-
-
-![4](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%204.png?version%3D1668889354275)
-
-
-![5](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%205.png?version%3D1668889368800)
->>>>>>> 90db3ec24b7fd9c8122d1dc186869dbd0454023e

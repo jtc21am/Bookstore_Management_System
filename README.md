@@ -13,15 +13,21 @@ Able to request for a book which is not available in the books list
 The admin of the bookstore can:
 Add new books or delete a book from the list
 See all the requested books by the customers
-
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Desktop/Screen%20Shot%202022-11-19%20at%203.04.56%20PM.png?version%3D1668888916541)
 See all the customers listed with their orders
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Desktop/Screen%20Shot%202022-11-19%20at%203.04.31%20PM.png?version%3D1668888688202)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Desktop/Screen%20Shot%202022-11-19%20at%203.04.39%20PM.png?version%3D1668888768506)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Desktop/Screen%20Shot%202022-11-19%20at%203.04.43%20PM.png?version%3D1668888800133)
 
-![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Desktop/Screen%20Shot%202022-11-19%20at%203.04.47%20PM.png?version%3D1668888855367)
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%201.png?version%3D1668889282202)
 
+
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%202.png?version%3D1668889318232)
+
+
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%203.png?version%3D1668889336070)
+
+
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%204.png?version%3D1668889354275)
+
+
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/asha/Library/Mobile%20Documents/com~apple~CloudDocs/Desktop/JTCCollabRepo/bookstore-management-system-django/Screen%20Shot%205.png?version%3D1668889368800)
